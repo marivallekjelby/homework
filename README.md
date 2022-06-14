@@ -1,2 +1,2 @@
 # homework
-mine lekser
+Homework for my school.
