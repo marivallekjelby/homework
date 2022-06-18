@@ -1,2 +1,2 @@
 # homework
-Homework for the course Practical Programming and Numerical Methods".
+Homework for the course "Practical Programming and Numerical Methods".
