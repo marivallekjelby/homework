@@ -1,0 +1,13 @@
+my max int = 2147483647 should be equal to 2147483647
+
+my min int = -2147483648 should be equal -2147483648
+
+The machine epsilon for double: 2.22044604925031E-16
+It must be about 2.22044604925031E-16
+The machine epsilon for float: 1.192093E-07
+It must be about 1.19209289550781E-07
+sumA-1 = 1.000000e+000 should be 1.110223e-010
+sumB-1 = 1.000000e+000 should be 1.110223e-010
+
+Testing approx function...a = 1.0, b = 2.0 should return false, does return: False
+a = 1.0, b = 1.0 should return true, does return: True

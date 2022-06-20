@@ -13,7 +13,7 @@ class main
 			Func<double, double> sinkx = delegate (double x) {
 				return Sin(k * x);
 			};
-			passfunctions.make_table(sinkx, 0, 2 * PI, 0.1);
+			table.make_table(sinkx, 0, 2 * PI, 0.1);
 			WriteLine();
 		}
 	}
