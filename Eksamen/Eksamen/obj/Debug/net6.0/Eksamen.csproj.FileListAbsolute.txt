@@ -1,0 +1,15 @@
+C:\Users\Eirik\OneDrive\Skrivebord\mari_eksamen\Eksamen\Eksamen\bin\Debug\net6.0\Eksamen.exe
+C:\Users\Eirik\OneDrive\Skrivebord\mari_eksamen\Eksamen\Eksamen\bin\Debug\net6.0\Eksamen.deps.json
+C:\Users\Eirik\OneDrive\Skrivebord\mari_eksamen\Eksamen\Eksamen\bin\Debug\net6.0\Eksamen.runtimeconfig.json
+C:\Users\Eirik\OneDrive\Skrivebord\mari_eksamen\Eksamen\Eksamen\bin\Debug\net6.0\Eksamen.dll
+C:\Users\Eirik\OneDrive\Skrivebord\mari_eksamen\Eksamen\Eksamen\bin\Debug\net6.0\Eksamen.pdb
+C:\Users\Eirik\OneDrive\Skrivebord\mari_eksamen\Eksamen\Eksamen\obj\Debug\net6.0\Eksamen.csproj.AssemblyReference.cache
+C:\Users\Eirik\OneDrive\Skrivebord\mari_eksamen\Eksamen\Eksamen\obj\Debug\net6.0\Eksamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eirik\OneDrive\Skrivebord\mari_eksamen\Eksamen\Eksamen\obj\Debug\net6.0\Eksamen.AssemblyInfoInputs.cache
+C:\Users\Eirik\OneDrive\Skrivebord\mari_eksamen\Eksamen\Eksamen\obj\Debug\net6.0\Eksamen.AssemblyInfo.cs
+C:\Users\Eirik\OneDrive\Skrivebord\mari_eksamen\Eksamen\Eksamen\obj\Debug\net6.0\Eksamen.csproj.CoreCompileInputs.cache
+C:\Users\Eirik\OneDrive\Skrivebord\mari_eksamen\Eksamen\Eksamen\obj\Debug\net6.0\Eksamen.dll
+C:\Users\Eirik\OneDrive\Skrivebord\mari_eksamen\Eksamen\Eksamen\obj\Debug\net6.0\refint\Eksamen.dll
+C:\Users\Eirik\OneDrive\Skrivebord\mari_eksamen\Eksamen\Eksamen\obj\Debug\net6.0\Eksamen.pdb
+C:\Users\Eirik\OneDrive\Skrivebord\mari_eksamen\Eksamen\Eksamen\obj\Debug\net6.0\Eksamen.genruntimeconfig.cache
+C:\Users\Eirik\OneDrive\Skrivebord\mari_eksamen\Eksamen\Eksamen\obj\Debug\net6.0\ref\Eksamen.dll
