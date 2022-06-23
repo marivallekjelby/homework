@@ -13,8 +13,9 @@ Student number: 202110385
 
 Exam question: 16, Cubic (sub-)spline for data with derivatives
 
-In this project I have built a cubic spline from a data set that includes a tabulated function  and the derivativeof the tabulated function at the data point x_i.
 
+
+In this project I have built a cubic spline from a data set that includes a tabulated function and the derivative of the tabulated function at the data point x_i.
 
 The cubic subspline was given by the equation
 S_i(x) = y_i + b_i(x-x_i) + c_i(x-x_i)^2 + d_i(x-x_i)^3,
@@ -32,7 +33,10 @@ where
 
 h(i) = x_(i+1) - x_i  
 
-To build the spline I first moved the user variables to global variables.  Then I replaced the firstand last values of the arrays....
+In general a cubic spline is a piecewise cubic function that is used to interpolate a set of data points, and it is a method that guarantees smoothness at the data points. The cubic spline we minimizes the total curvature of the interpolating function. When we use a spline to interpolate we avoid the problem of Runge’s phenomenon, which is oscillation at the edges of the interval. The cubic spline function is continous with its first and second derivatives, which is what goves us our conditions for the coefficients. Since the spline has 0 
 
+To build the spline I followed the process of cubic splines in the document "interpolation" from week 11. It was especially used to compute the 
 
-rate myself!!!!!
+first moved the user variables to global variables.  Then I replaced the first and last values of the arrays....
+
+I have us
