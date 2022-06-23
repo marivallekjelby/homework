@@ -33,10 +33,11 @@ where
 
 h(i) = x_(i+1) - x_i  
 
-In general a cubic spline is a piecewise cubic function that is used to interpolate a set of data points, and it is a method that guarantees smoothness at the data points. The cubic spline we minimizes the total curvature of the interpolating function. When we use a spline to interpolate we avoid the problem of Runge’s phenomenon, which is oscillation at the edges of the interval. The cubic spline function is continous with its first and second derivatives, which is what goves us our conditions for the coefficients. Since the spline has 0 
+In general a cubic spline is a piecewise cubic function that is used to interpolate a set of data points, and it is a method that guarantees smoothness at the data points. The cubic spline will minimize the total curvature of the interpolating function. When we use a spline to interpolate we avoid the problem of Runge’s phenomenon, which is oscillation at the edges of the interval. The cubic spline function is continous with its first and second derivatives, which is what goves us our conditions for the coefficients. 
 
-To build the spline I followed the process of cubic splines in the document "interpolation" from week 11. It was especially used to compute the 
+To build the cubic spline (cspline.cs) I followed the process of cubic splines in the document "interpolation" from week 11. It was especially used to find the coefficients in the function. When this was done the arrays was sorted before using binary search to find the position of a target value within the array to perform the spline.
 
-first moved the user variables to global variables.  Then I replaced the first and last values of the arrays....
+In the main.cs file I have called on the function cspline from the cspline.cs file and used it to perform the spline on the dataset.
 
-I have us
+
+
