@@ -37,7 +37,8 @@ In general a cubic spline is a piecewise cubic function that is used to interpol
 
 To build the cubic spline (cspline.cs) I followed the process of cubic splines in the document "interpolation" from week 11. It was especially used to find the coefficients in the function. When this was done the arrays was sorted before using binary search to find the position of a target value within the array to perform the spline.
 
-In the main.cs file I have called on the function cspline from the cspline.cs file and used it to perform the spline on the dataset.
+In the cspline.cs file I have made the cspline class which is called upon in the main.cs file and used to perform the cubic spline on the dataset.
+
 
 
 
