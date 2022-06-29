@@ -1,3 +1,5 @@
+Exam finished.
+
 Author: Mari Valle Kjelby
 
 Student number: 202110385
