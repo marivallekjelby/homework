@@ -1,6 +1,6 @@
 build: main.cs cspline.cs
-	csc -target:library cspline.cs
-	csc -target:exe -out:main.exe -reference:cspline.dll main.cs
+	mcs -target:library cspline.cs
+	mcs -target:exe -out:main.exe -reference:cspline.dll main.cs
 
 run:build 
 	mono main.exe
